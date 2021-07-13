@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NomadEd Test</string>
+    <string name="NO_EVENT">Il n\'y a pas d\'évenements à afficher !</string>
+    <string name="DATE">Date : </string>
+    <string name="ADD_TO_CALENDAR">Ajouter au calendrier</string>
+</resources>
